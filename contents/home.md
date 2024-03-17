@@ -5,4 +5,4 @@
   <img src="static/assets/img/dataset.png" alt="dataset" width="800" height="550">
 </div>
 This dataset will be soon released publicly.Permission to use copy, or modify this dataset, tool and codes for educational and research purposes.
-E-mail : mafei0603@163.com or Zhaohui Zhang0809@163.com
+E-mail : mafei0603@163.com or zhaohuizhang0809@163.com
